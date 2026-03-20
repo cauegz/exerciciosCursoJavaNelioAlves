@@ -38,7 +38,7 @@ Um dos módulos mais importantes documentados aqui é o de **Composição**, ond
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/cauegz/exerciciosCursoJavaNelioAlves.git](https://github.com/cauegz/exerciciosCursoJavaNelioAlves.git)
    
 2. Importe o projeto na sua IDE (IntelliJ, Eclipse ou VS Code).
 
